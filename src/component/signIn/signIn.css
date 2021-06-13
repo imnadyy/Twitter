@@ -1,0 +1,20 @@
+.signIn{
+    width: 40%;
+    height: 40%;
+    padding: 5%;
+    margin: 5% auto;
+    border: 2px solid green;
+    border-radius: 25px;
+    background-color: #43B1F4;
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}

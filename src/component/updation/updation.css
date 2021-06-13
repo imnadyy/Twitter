@@ -1,0 +1,30 @@
+.container{
+    width: 50%;
+    height: auto;
+    padding: 30px;
+    border: 1px solid lightgrey;
+    float: left;
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid lightskyblue;
+    width: 50%;
+}
+
+.container h2{
+    padding: 15px;
+}
+
+.container input {
+    margin: 0 10px 0 10px;
+}
+
+.updation {
+    padding: 15px;
+    margin: 10px;
+}
+
+.firstCompo{
+    margin-top: 20px;
+}

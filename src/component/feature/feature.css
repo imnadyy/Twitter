@@ -1,0 +1,42 @@
+.things {
+    width: 25%;
+    min-height: 100vh;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    float: left;
+    border: 1px solid lightgrey;
+}
+
+.list {
+    padding: 15px;
+}
+
+.list a {
+    text-decoration: none;
+    color: black;
+}
+
+.more{
+    background: #43B1F4;
+    text-decoration: none;
+    color: white;
+    padding: 10px 50px;
+    border-radius: 30px;
+}
+
+.more:hover{
+    /* background-color: #1A91DA;        dark blue for hovering. */
+    background-color: #1a91da;
+}
+
+.list a:hover {
+    /* hover color */
+    background-color: #E8F5FE;
+    padding: 15px;
+    border-radius: 30px;
+    /* blue theme color */
+    color: #43B1F4;
+}
